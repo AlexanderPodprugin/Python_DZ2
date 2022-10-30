@@ -1,0 +1,5 @@
+obj = (i for i in range(100) if i%11 == 0)
+print(next(obj))
+print(next(obj))
+print(next(obj))
+print(next(obj))
